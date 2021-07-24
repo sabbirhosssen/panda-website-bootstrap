@@ -1,0 +1,22 @@
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.section-1 img{
+    width: 100px;
+}
+.caragories-bg1{
+    background-color: #ffa500;
+}
+.caragories-bg2{
+    background-color: #da70d6;
+}
+.caragories-bg3{
+    background-color:#0000ff;
+}
+.panda-btn-by-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
